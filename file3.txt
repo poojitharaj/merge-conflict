@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi everyone
+=======
+hi everyone
+>>>>>>> 89eb0572522ab535502397c2822ead91261ebd70
